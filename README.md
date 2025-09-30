@@ -24,6 +24,25 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+<img width="527" height="552" alt="image" src="https://github.com/user-attachments/assets/ec3e7669-9ae4-464f-8f4d-8002b122f69f" />
+<img width="1104" height="627" alt="image" src="https://github.com/user-attachments/assets/b040a2d0-e647-46fc-bae2-7b678f40f346" />
+<img width="956" height="571" alt="image" src="https://github.com/user-attachments/assets/97afed75-9c02-42ab-9a5f-3b28c9ed9e22" />
+<img width="1047" height="576" alt="image" src="https://github.com/user-attachments/assets/03416044-cd23-4205-8c1f-5b4383f42c20" />
+<img width="910" height="561" alt="image" src="https://github.com/user-attachments/assets/f5aaf160-3bd3-4b5f-b8d2-d8f8efcae0a7" />
+<img width="882" height="566" alt="image" src="https://github.com/user-attachments/assets/ef5d6245-45f4-4923-ac27-5a1a04c7de3e" />
+<img width="1347" height="835" alt="image" src="https://github.com/user-attachments/assets/d1861005-f23d-4139-911a-5fc8a539a3e7" />
+<img width="1348" height="706" alt="image" src="https://github.com/user-attachments/assets/17048292-7107-4cc4-8d4a-8f69978459f9" />
+<img width="652" height="316" alt="image" src="https://github.com/user-attachments/assets/579571cc-797c-41cb-8f3d-d4f32615f8ed" />
+<img width="1095" height="497" alt="image" src="https://github.com/user-attachments/assets/5e28e2a2-4466-4539-9046-4d0bf7cad15b" />
+<img width="929" height="477" alt="image" src="https://github.com/user-attachments/assets/6efb5c71-6149-4e1f-bcfb-dd5b5960cc8f" />
+<img width="1107" height="522" alt="image" src="https://github.com/user-attachments/assets/fd0c3d48-27a8-4e2d-84f9-254edd910fcf" />
+<img width="1428" height="609" alt="image" src="https://github.com/user-attachments/assets/08a674d7-efba-44de-ade8-5fded8aa481b" />
+<img width="1391" height="588" alt="image" src="https://github.com/user-attachments/assets/88892269-a230-472f-b427-e1eeb0fb57a3" />
+<img width="1122" height="555" alt="image" src="https://github.com/user-attachments/assets/ec49f5a0-67ea-4c19-8ec8-2dab4dd686a0" />
+<img width="1223" height="481" alt="image" src="https://github.com/user-attachments/assets/414fc3a0-7adc-4f5d-b72d-9c62bb594bc7" />
+<img width="951" height="787" alt="image" src="https://github.com/user-attachments/assets/e02bbdbc-e716-404d-bd9c-8f9f2b1a186c" />
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus, Feature selection and Feature scaling has been used on thegiven dataset.
+
